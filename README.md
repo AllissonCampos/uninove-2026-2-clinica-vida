@@ -8,7 +8,8 @@ aplicação completa entregue na Aula 20. O enunciado completo do case está em
 
 ## Identificação
 
-- Nome completo:
-- RA:
-- Turma: (quarta ou quinta)
-- O que espero aprender:
+- Nome completo: Allisson Campos Lima
+- RA: 925107866
+- Turma: Quinta
+- O que espero aprender: Inciar um projeto novo para públicar em meu GIT, tendo uma visão mais clara de como será o meu futuro no ramo de TI. 
+
