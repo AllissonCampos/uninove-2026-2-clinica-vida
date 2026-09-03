@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--vida-texto);
+  background-color: var(--vida-fundo);
+}
+
+/* ===== PASSO 3: CABEÇALHO E MENU ===== */
+header {
+  background-color: var(--vida-primaria);
+  color: #FFFFFF;
+  padding: 24px 32px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 1.8rem;
+}
+
+nav ul {
+  display: flex;         /* Coloca os itens do menu lado a lado */
+  gap: 24px;             /* Espaçamento entre os links */
+  list-style: none;      /* Remove as bolinhas da lista */
+  margin: 12px 0 0 0;
+  padding: 0;
+}
+
+nav a {
+  color: #FFFFFF;
+  text-decoration: none; /* Remove o sublinhado dos links */
+  font-weight: 600;
+}
+/* ===== PASSO 4: CARDS DE ESPECIALIDADES ===== */
+.lista-especialidades {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+}
+
+.lista-especialidades li {
+  width: 260px;
+  padding: 20px;
+  background-color: #FFFFFF;
+  border-left: 4px solid var(--vida-secundaria);
+  border-radius: 8px;
+}
+    
