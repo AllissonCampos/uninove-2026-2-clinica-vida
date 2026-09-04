@@ -107,5 +107,10 @@ tr:nth-child(even) {
 }
 
 td {
-  border-bottom: 1px solid var(--vida-borda);
+  border-bottom: 1px solid var(--vida-borda);}
+footer {
+  background-color: var(--vida-texto);
+  color: #FFFFFF;
+  padding: 24px 32px;
+  margin-top: 40px;
 }
